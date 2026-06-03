@@ -80,7 +80,7 @@ superstore-analysis/
 ├── data_dictionary.md                # Column descriptions and data types
 ├── data_quality_report.md            # Data cleaning steps and findings
 ├── insights.md                       # Complete business insights (12 sections)
-└── README.md                         # You are here
+└── README.md                         
 ```
 
 ---
