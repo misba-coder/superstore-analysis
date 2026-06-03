@@ -129,15 +129,15 @@ The SQL analysis covers 5 complete sections:
 - Revenue grew **51%** over 4 years — healthy, sustainable growth
 
 ### Regional Story
-- **West** → Best region: $739K revenue, 14.98% margin ✅
-- **Central** → Problem region: $503K revenue, only 7.92% margin ⚠️
-- **Texas** → 3rd highest revenue but losing **-$25,729** ❌
+- **West** → Best region: $739K revenue, 14.98% margin 
+- **Central** → Problem region: $503K revenue, only 7.92% margin 
+- **Texas** → 3rd highest revenue but losing **-$25,729** 
 
 ### Product Story
-- **Technology** → Star performer: $146K profit, 17.45% margin ✅
-- **Office Supplies** → Hidden hero: $126K profit, 17.22% margin ✅
-- **Furniture** → Biggest problem: only 2.61% margin ❌
-- **Tables** → Worst sub-category: -$17,753 loss ❌
+- **Technology** → Star performer: $146K profit, 17.45% margin 
+- **Office Supplies** → Hidden hero: $126K profit, 17.22% margin 
+- **Furniture** → Biggest problem: only 2.61% margin 
+- **Tables** → Worst sub-category: -$17,753 loss 
 
 ### Discount Story
 - Orders with **>20% discount** consistently generate losses
@@ -148,10 +148,10 @@ The SQL analysis covers 5 complete sections:
 
 ## 👤 About
 
-**Analyst:** Misba
-**GitHub:** [github.com/misba-coder](https://github.com/misba-coder)
-**Project Type:** Personal Portfolio Project
-**Role Target:** Data Analyst (Fresher)
+- **Analyst:** Misba
+- **GitHub:** [github.com/misba-coder](https://github.com/misba-coder)
+- **Project Type:** Personal Portfolio Project
+- **Role Target:** Data Analyst (Fresher)
 
 ---
 
