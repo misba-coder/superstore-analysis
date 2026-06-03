@@ -68,7 +68,7 @@ The goal of this analysis was to answer:
 superstore-analysis/
 │
 ├── data/
-│   └── samplesuperstore.csv          # Raw dataset (9,994 rows, 21 columns)
+│   └── samplesuperstore.csv          
 │
 ├── sql/
 │   └── queries.sql                   
