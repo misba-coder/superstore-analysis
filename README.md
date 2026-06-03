@@ -71,15 +71,15 @@ superstore-analysis/
 │   └── samplesuperstore.csv          # Raw dataset (9,994 rows, 21 columns)
 │
 ├── sql/
-│   └── queries.sql                   # Complete SQL analysis (5 sections)
+│   └── queries.sql                   
 │
 ├── powerbi/
-│   └── superstore_dashboard.png      # Final dashboard screenshot
+│   └── superstore_dashboard.png      
 │
-├── analysis_questions.md             # Business questions defined before analysis
-├── data_dictionary.md                # Column descriptions and data types
-├── data_quality_report.md            # Data cleaning steps and findings
-├── insights.md                       # Complete business insights (12 sections)
+├── analysis_questions.md             
+├── data_dictionary.md                
+├── data_quality_report.md           
+├── insights.md                       
 └── README.md                         
 ```
 
